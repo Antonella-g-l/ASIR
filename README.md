@@ -15,4 +15,3 @@ Actualmente estoy trabajando en administración de sistemas, redes, servicios, b
 - **DASP** — DigAplALosSecPro(GS)
 
 
-Repositorio creado para organizar mi trabajo durante ASIR.
